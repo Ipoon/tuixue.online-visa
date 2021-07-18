@@ -1,4 +1,4 @@
-asgiref==3.2.10
+asgiref
 beautifulsoup4==4.9.3
 certifi==2020.6.20
 chardet==3.0.4
@@ -12,6 +12,6 @@ requests==2.24.0
 selenium==3.141.0
 soupsieve==2.0.1
 sqlparse==0.4.1
-torch==1.6.0
-torchvision==0.7.0
-urllib3==1.26.5
+torch
+torchvision
+urllib3==1.25.11

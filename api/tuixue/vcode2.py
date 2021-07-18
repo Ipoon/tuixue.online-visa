@@ -296,6 +296,9 @@ class Captcha:
 
 
 if __name__ == "__main__":
-    with open(sys.argv[1], "rb") as f:
+    img = "/home/winchell/图片/iphac.gif"
+    #with open(sys.argv[1], "rb") as f:
+        #img_data = f.read()
+    with open(img, "rb") as f:
         img_data = f.read()
     print(inspect(img_data))
